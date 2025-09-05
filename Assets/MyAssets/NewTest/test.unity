@@ -747,6 +747,7 @@ MonoBehaviour:
   - {fileID: 1549544599}
   - {fileID: 630822398}
   - {fileID: 2144228996}
+  animator: {fileID: 5866666020507785026}
   CurrentItemIndex: 0
 --- !u!1 &1549544599
 GameObject:
